@@ -16,7 +16,7 @@ import React from "react";
  * Need an image? Check out https://unsplash.com to download a image you
  * freely use on your site.
  */
-import image from "../images/motion-background.jpg";
+import image from "../images/socials/pexels-pixabay-270348.jpg";
 
 const imageAltText = "purple and blue abstract background";
 
@@ -24,19 +24,21 @@ const imageAltText = "purple and blue abstract background";
  * Sort description that expands on your title on the Home component.
  */
 const description =
-  "I'm a UI/UX student studying at Barnett Technical University. I enjoy creating unique and simplistic user interfaces in creative ways.";
+  "Passionate coder and tech enthusiast with a creative edge. Skilled in innovative problem-solving and eager to grow in the tech industry. Proficient in multiple programming languages and always on the lookout for new technologies and methodologies to enhance development processes.";
 
 /**
  * List of some of skills or technologies you work on, are learning,
  * passionate about, or enjoy,
  */
 const skillsList = [
-  "Web design",
-  "User experience",
-  "Inclusive design",
-  "Focus group testing",
-  "Mobile user interfaces",
-  "Graphic design",
+  "Python",
+  "C Programming",
+  "HTML",
+  "CSS",
+  "Time Management",
+  "UI/UX Design",
+  "Figma",
+  "English Proficiency",
 ];
 
 /**
@@ -45,7 +47,7 @@ const skillsList = [
  * about you on a professional level.
  */
 const detailOrQuote =
-  "I am passionate about solving problems in new creative ways to drive innovation. By leveraging my UI/UX experience I continually look for new and better ways to make tech accessible by all.";
+  "Known for a keen eye for detail and a strong ability to translate complex requirements into efficient, user-friendly solutions. Committed to continuous learning and professional development, with a particular interest in emerging tech trends and their potential to drive impactful change. Seeking opportunities to leverage my skills in a dynamic and forward-thinking environment..";
 
 const About = () => {
   return (
