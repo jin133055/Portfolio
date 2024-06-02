@@ -27175,8 +27175,8 @@ var _reactDefault = parcelHelpers.interopDefault(_react);
  *
  * Need an image? Check out https://unsplash.com to download a image you
  * freely use on your site.
- */ var _pexelsPixabay270348Jpg = require("../images/socials/pexels-pixabay-270348.jpg");
-var _pexelsPixabay270348JpgDefault = parcelHelpers.interopDefault(_pexelsPixabay270348Jpg);
+ */ var _motionBackgroundJpg = require("../images/motion-background.jpg");
+var _motionBackgroundJpgDefault = parcelHelpers.interopDefault(_motionBackgroundJpg);
 const imageAltText = "purple and blue abstract background";
 /**
  * Sort description that expands on your title on the Home component.
@@ -27206,7 +27206,7 @@ const About = ()=>{
         children: [
             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("img", {
                 className: "background",
-                src: (0, _pexelsPixabay270348JpgDefault.default),
+                src: (0, _motionBackgroundJpgDefault.default),
                 alt: imageAltText
             }, void 0, false, {
                 fileName: "src/Components/About.jsx",
@@ -27300,7 +27300,7 @@ $RefreshReg$(_c, "About");
   window.$RefreshReg$ = prevRefreshReg;
   window.$RefreshSig$ = prevRefreshSig;
 }
-},{"react/jsx-dev-runtime":"iTorj","react":"21dqq","@parcel/transformer-js/src/esmodule-helpers.js":"gkKU3","@parcel/transformer-react-refresh-wrap/lib/helpers/helpers.js":"km3Ru","../images/socials/pexels-pixabay-270348.jpg":"4hLH5"}],"gkKU3":[function(require,module,exports) {
+},{"react/jsx-dev-runtime":"iTorj","react":"21dqq","@parcel/transformer-js/src/esmodule-helpers.js":"gkKU3","@parcel/transformer-react-refresh-wrap/lib/helpers/helpers.js":"km3Ru","../images/motion-background.jpg":"kzNvo"}],"gkKU3":[function(require,module,exports) {
 exports.interopDefault = function(a) {
     return a && a.__esModule ? a : {
         default: a
@@ -27450,8 +27450,8 @@ function registerExportsForReactRefresh(module1) {
     }
 }
 
-},{"react-refresh/runtime":"786KC"}],"4hLH5":[function(require,module,exports) {
-module.exports = require("./helpers/bundle-url").getBundleURL("bLxZJ") + "pexels-pixabay-270348.3a79100f.jpg" + "?" + Date.now();
+},{"react-refresh/runtime":"786KC"}],"kzNvo":[function(require,module,exports) {
+module.exports = require("./helpers/bundle-url").getBundleURL("bLxZJ") + "motion-background.0a6a8db0.jpg" + "?" + Date.now();
 
 },{"./helpers/bundle-url":"lgJ39"}],"lgJ39":[function(require,module,exports) {
 "use strict";
@@ -28622,8 +28622,8 @@ var _propTypesDefault = parcelHelpers.interopDefault(_propTypes);
  *
  * Need an image? Check out https://unsplash.com to download a photo you
  * freely use on your site.
- */ var _whatsAppImage20240530At104416PM1Jpeg = require("../images/socials/WhatsApp Image 2024-05-30 at 10.44.16 PM (1).jpeg");
-var _whatsAppImage20240530At104416PM1JpegDefault = parcelHelpers.interopDefault(_whatsAppImage20240530At104416PM1Jpeg);
+ */ var _whatsAppImage20240602At35014PMJpeg = require("../images/socials/WhatsApp Image 2024-06-02 at 3.50.14 PM.jpeg");
+var _whatsAppImage20240602At35014PMJpegDefault = parcelHelpers.interopDefault(_whatsAppImage20240602At35014PMJpeg);
 const imageAltText = "Adult female in office setting leaning against a glass wall while holding a platinum Microsoft Surface Pro 7 in tablet mode preparing to write with Microsoft Surface Pen";
 const Home = ({ name , title  })=>{
     return /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("section", {
@@ -28632,7 +28632,7 @@ const Home = ({ name , title  })=>{
         children: [
             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("img", {
                 className: "background",
-                src: (0, _whatsAppImage20240530At104416PM1JpegDefault.default),
+                src: (0, _whatsAppImage20240602At35014PMJpegDefault.default),
                 alt: ""
             }, void 0, false, {
                 fileName: "src/Components/Home.jsx",
@@ -28715,11 +28715,11 @@ $RefreshReg$(_c, "Home");
   window.$RefreshReg$ = prevRefreshReg;
   window.$RefreshSig$ = prevRefreshSig;
 }
-},{"react/jsx-dev-runtime":"iTorj","react":"21dqq","../images/down-arrow.svg":"b5nCi","prop-types":"7wKI2","@parcel/transformer-js/src/esmodule-helpers.js":"gkKU3","@parcel/transformer-react-refresh-wrap/lib/helpers/helpers.js":"km3Ru","../images/socials/WhatsApp Image 2024-05-30 at 10.44.16 PM (1).jpeg":"NaiJ7"}],"b5nCi":[function(require,module,exports) {
+},{"react/jsx-dev-runtime":"iTorj","react":"21dqq","../images/down-arrow.svg":"b5nCi","prop-types":"7wKI2","@parcel/transformer-js/src/esmodule-helpers.js":"gkKU3","@parcel/transformer-react-refresh-wrap/lib/helpers/helpers.js":"km3Ru","../images/socials/WhatsApp Image 2024-06-02 at 3.50.14 PM.jpeg":"fF5s7"}],"b5nCi":[function(require,module,exports) {
 module.exports = require("./helpers/bundle-url").getBundleURL("bLxZJ") + "down-arrow.1037091f.svg" + "?" + Date.now();
 
-},{"./helpers/bundle-url":"lgJ39"}],"NaiJ7":[function(require,module,exports) {
-module.exports = require("./helpers/bundle-url").getBundleURL("bLxZJ") + "WhatsApp Image 2024-05-30 at 10.44.16 PM (1).94c9b666.jpeg" + "?" + Date.now();
+},{"./helpers/bundle-url":"lgJ39"}],"fF5s7":[function(require,module,exports) {
+module.exports = require("./helpers/bundle-url").getBundleURL("bLxZJ") + "WhatsApp Image 2024-06-02 at 3.50.14 PM.3423403c.jpeg" + "?" + Date.now();
 
 },{"./helpers/bundle-url":"lgJ39"}],"lCaEt":[function(require,module,exports) {
 var $parcel$ReactRefreshHelpers$ed0d = require("@parcel/transformer-react-refresh-wrap/lib/helpers/helpers.js");
