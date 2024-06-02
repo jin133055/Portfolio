@@ -27090,9 +27090,9 @@ var _stylesCss = require("./styles.css");
     name: "Preyanshe Jindal",
     title: "Web Developer",
     email: "pre13305@gmail.com",
-    gitHub: "https://github.com/jin133055",
+    gitHub: "jin133055",
     instagram: "preyansheeee",
-    linkedIn: "https://www.linkedin.com/in/preyanshe-jindal-3627b5264/",
+    linkedIn: "preyanshe-jindal-3627b5264/",
     medium: ""
 };
 const primaryColor = "#4E567E";
