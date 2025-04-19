@@ -31,14 +31,14 @@ const description =
  * passionate about, or enjoy,
  */
 const skillsList = [
-  "Python",
-  "C Programming",
-  "HTML",
-  "CSS",
-  "Time Management",
-  "UI/UX Design",
-  "Figma",
-  "English Proficiency",
+"Languages: Python, C, C++, Java, JavaScript, SQL, HTML, CSS"
+"Frameworks & Tools: React, Flask, FastAPI, Node.js, WordPress, JUnit, Material-UI"
+"Developer Tools: Git, Docker, TravisCI, AWS, Google Cloud Platform, VS Code, PyCharm, IntelliJ, Eclipse"
+"Libraries & Technologies: NumPy, pandas, Matplotlib, OpenCV, Monte Carlo Tree Search, PCA"
+"Database & Backend: PostgreSQL, MySQL, REST APIs, Firebase"
+"Design & Prototyping: UI/UX Design, Figma, Canva"
+"Web & App Dev: Responsive Web Design, Cross-Browser Compatibility, SEO Optimization"
+"Cloud & DevOps: AWS Lambda, S3, Rekognition, SageMaker, API Gateway, Kinesis Video Streams",
 ];
 
 /**
