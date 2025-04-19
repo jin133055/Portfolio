@@ -26,10 +26,10 @@ import "./styles.css";
 const siteProps = {
   name: "Preyanshe Jindal",
   title: "Web Developer",
-  email: "pre13305@gmail.com",
+  email: "pj764@snu.edu.in",
   gitHub: "jin133055",
   instagram: "preyansheeee",
-  linkedIn: "preyanshe-jindal-3627b5264/",
+  linkedIn: "https://www.linkedin.com/in/preyanshe/",
   medium: "",
 };
 
